@@ -1,6 +1,6 @@
-# curso_flutter
+# ByteBankApp
 
-A new Flutter project.
+Flutter project.
 
 ## Getting Started
 
